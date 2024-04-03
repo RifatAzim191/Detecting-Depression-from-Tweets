@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
+https://github.com/eddieir/Depression_detection_using_Twitter_post/blob/master/depressive_tweets_processed.csv
+
+https://www.kaggle.com/datasets/yetman/english-contractions/data
